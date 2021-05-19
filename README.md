@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🏡 Website: https://selinnnn.gitlab.io/
+
+💬 Slogan: Codes create the world.
