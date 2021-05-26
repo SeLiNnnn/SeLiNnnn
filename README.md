@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-🏡 Website: https://selinnnn.gitlab.io/
+🏡 Blog: https://selinnnn.gitlab.io/
 
 💬 Slogan: Codes create the world.
