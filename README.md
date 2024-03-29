@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🏡  My Blog:  https://selinnnn.gitlab.io/
 -->
 
 
-🏡  My Blog:  https://selinnnn.gitlab.io/
-
-💬  Slogan:  Codes create the world.
